@@ -1,0 +1,38 @@
+.anima-usuario {
+  position: relative;
+  text-align: center;
+  height: 600px;
+  background-color: #f7f8ff;
+}
+.anima-usuario h1 {
+  font-size: 48px;
+  letter-spacing: 3px;
+  position: absolute;
+  top: 30px;
+  left: 0px;
+  padding-left: 470px;
+}
+.anima-usuario h1 a {
+  text-decoration: none;
+}
+.anima-usuario .imagen-404 {
+  height: 100%;
+  padding-top: 150px;
+}
+
+.jumbotron-video {
+  align-items: center;
+  padding: 20px;
+  height: 1050px;
+  width: auto;
+  object-fit: cover;
+}
+
+.imagen-carrusel {
+  height: auto;
+  width: 90%;
+  margin-left: 100px;
+  object-fit: cover;
+}
+
+/*# sourceMappingURL=output.css.map */
